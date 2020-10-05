@@ -57,8 +57,7 @@ ToDo:
 - Servidores
 - Redes WIFI, WLAN y LAN
 7. Animales
-- Animales, peces, y bichos
-- Sistema de plazo de vida
+- Animales, peces, e insectos
 - Sistema de Insecticida
 8. Construccion
 - Sistema de paredes y puertas
