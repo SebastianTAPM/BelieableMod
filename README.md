@@ -12,6 +12,7 @@ ToDo:
 - Energia
 - Textil
 - Petrolera
+- Forestal
 2. Comercio
 - Maquinas expendedoras
 - Vitrinas para tiendas
