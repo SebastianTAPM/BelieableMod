@@ -74,4 +74,4 @@ ToDo:
 - Sistema de Rol (/me /do /yo /intentar /gritar /susurrar)
 - sistema de radio y television
 - sistema de acciones fisicas
-
+- sistema de muebles
